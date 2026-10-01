@@ -1,36 +1,42 @@
-# Replace with recipe name
+# Lemon Ricotta Pancakes
 
 ## Description
-
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+Light, fluffy pancakes made with ricotta and fresh lemon. Ricotta hotcakes became famous at bills, the café chef Bill Granger opened in Darlinghurst, Sydney, in 1993. They became a signature of Sydney's café brunch culture and spread worldwide through his first cookbook, *Sydney Food* (2000). This version adds lemon zest and juice, a popular variation.
 
 ## Stats
-
 | Field | Info |
-|-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+|---|---|
+| Prep Time | 15 minutes |
+| Cook Time | 20 minutes |
+| Total Time | 35 minutes |
+| Servings | 4 (about 12 pancakes) |
+| Difficulty | Medium |
+| Tags | breakfast, brunch, vegetarian, Australian |
 
-<!-- Note the fields in the markdown table -->
+## Ingredients:
+- 1 ⅓ cups whole-milk ricotta
+- ¾ cup milk
+- 4 eggs, separated
+- Zest of 2 lemons
+- 2 tbsp lemon juice
+- 1 cup all-purpose flour
+- 2 tbsp sugar
+- 1 tsp baking powder
+- Pinch of salt
+- Butter, for the pan
+- To serve: berries, maple syrup or honey, powdered sugar
 
-### Ingredients:
-- [ ] add ingredient here
-      
-<!-- List every ingredient -->
+## Steps for preparation:
+1. Whisk the ricotta, milk, egg yolks, lemon zest and lemon juice together in a large bowl.
+2. In a separate bowl, mix the flour, sugar, baking powder and salt. Fold into the ricotta mixture until just combined.
+3. Beat the egg whites to stiff peaks. Gently fold them into the batter in two additions, keeping as much air as possible.
+4. Heat a nonstick pan over medium-low heat and add a little butter. Pour about ¼ cup of batter per pancake. Cook 2 to 3 minutes until golden underneath, then flip and cook 1 to 2 minutes more.
+5. Keep cooked pancakes warm in a low oven while you finish the batch. Serve with berries, syrup and a dusting of powdered sugar.
 
-### Steps for preparation:
+## Notes:
+- If your ricotta is watery, drain it in a sieve for 10 minutes first.
+- Don't overmix once the egg whites go in. They're what make the pancakes fluffy.
+- Historical source: Bill Granger, bills café, Darlinghurst, Sydney (1993); *Sydney Food* (2000).
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
-
-### Notes:
-
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-
-### Author(s):
+## Author(s):
+Bill Granger
