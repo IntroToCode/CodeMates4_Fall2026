@@ -4,6 +4,10 @@
 
 A fresh, healthy, and filling lunch bowl with seasoned chicken, fluffy quinoa, crunchy vegetables, feta cheese, and a simple lemon dressing. Perfect for meal prep!
 
+The Mediterranean Chicken & Quinoa Bowl is inspired by the flavors and ingredients of Mediterranean cuisine, particularly Greek cooking. While it's not a traditional dish from one specific country, it combines staples like olive oil, lemon, oregano, fresh vegetables, and feta cheese.
+
+What makes it special is its balance of fresh flavors, nutrition, and convenience. It's high in protein, full of colorful vegetables, and easy to customize. It's also great for meal prep, making it a healthy and satisfying lunch option for busy days.
+
 ## Stats
 
 | Field | Info |
