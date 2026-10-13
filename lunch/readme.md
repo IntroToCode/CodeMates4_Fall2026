@@ -55,4 +55,4 @@ Keep dressing separate until ready to eat.
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s): Olivia Chandler
+### Author(s): Mary Borden
