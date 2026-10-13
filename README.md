@@ -2,7 +2,7 @@
 
 - Breakfast: 
 - Lunch: 
-- Dinner: 
+- Dinner: [Chicken Biryani](dinner/readme.md)
 
 _Notes_
 __

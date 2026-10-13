@@ -8,29 +8,50 @@
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Prep Time | 30 mins |
+| Cook Time | 60 mins |
+| Total Time | 1 hour 30 mins |
+| Servings | 8 |
+| Difficulty | Medium |
+| Tags | Indian, Make-Ahead, Crowd Fav |
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+- [ ] 2 lb bone-in chicken thighs, cut into pieces
+- [ ] 1 cup plain yogurt
+- [ ] 2 tbsp ginger-garlic paste
+- [ ] 2 tsp red chili powder
+- [ ] 1 tsp turmeric
+- [ ] 2 tsp garam masala (or 2 tbsp biryani masala)
+- [ ] 1 lemon, juiced
+- [ ] 3 large onions, thinly sliced
+- [ ] 3 cups basmati rice
+- [ ] 4 tbsp ghee or oil
+- [ ] 2 tomatoes, chopped
+- [ ] 1 cup fresh mint leaves
+- [ ] 1 cup fresh cilantro, chopped
+- [ ] 4 green chilies, slit
+- [ ] Whole spices: 4 green cardamom, 4 cloves, 1 cinnamon stick, 2 bay leaves
+- [ ] Pinch of saffron soaked in 1/4 cup warm milk
+- [ ] Salt to tast
       
 <!-- List every ingredient -->
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
+1. Marinate the chicken in yogurt, ginger-garlic paste, chili powder, turmeric, garam masala, lemon juice, and salt for at least 1 hour.
+2. Rinse the rice until the water runs clear, then soak it for 30 minutes.
+3. Fry the sliced onions in ghee until deep golden brown. Set half aside for garnish.
+4. Add the tomatoes and green chilies to the pot with the remaining onions, cook until soft, then add the marinated chicken. Cook covered for 20–25 minutes until the chicken is nearly done and the gravy is thick.
+5. Meanwhile, boil the drained rice in salted water with the whole spices until about 70% cooked (still firm in the center), then drain.
+6. Layer the rice over the chicken. Top with mint, cilantro, the reserved fried onions, and the saffron milk.
+7. Cover tightly and cook on the lowest heat for 20–25 minutes ("dum") so the rice finishes steaming in the chicken's juices.
+8. Rest for 5 minutes, then gently mix from the bottom and serve with raita.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
-### Author(s):
+### Author(s): Amay Nirula
