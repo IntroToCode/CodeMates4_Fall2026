@@ -50,6 +50,8 @@ Step-by-step process on how to make delicious chicken biryani.
 8. Rest for 5 minutes, then gently mix from the bottom and serve with raita.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
+  ### Beverage pairing:
+  **Mango Lassi:** a chilled blend of ripe mango (or canned mango pulp), plain yogurt, milk, a little sugar, and a pinch of cardamom. Its creamy sweetness balances the heat of the biryani, and it's easy to make by the pitcher for a group.
 ### Notes:
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
