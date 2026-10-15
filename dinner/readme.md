@@ -51,6 +51,8 @@ Step-by-step process on how to make delicious chicken biryani.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
 ### Notes:
+### Beverage pairing:
+  **Masala Chai:** black tea simmered with milk, sugar, and whole spices like cardamom, ginger, cinnamon, and cloves. Its warm spices echo the aromatics in the biryani, and it's easy to brew in one large pot so everyone at the table can be served at once.
 
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
