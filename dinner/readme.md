@@ -1,7 +1,6 @@
-# Replace with recipe name
+Chicken Biryani
 
-## Description
-
+Step-by-step process on how to make delicious chicken biryani. 
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
 
 ## Stats
