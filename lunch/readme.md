@@ -17,6 +17,7 @@ What makes it special is its balance of fresh flavors, nutrition, and convenienc
 | Total Time | 35 minutes |
 | Servings | 2 |
 | Difficulty | Easy |
+| Spice Level | 🌶️ |
 | Tags | healthy, high-protein, Mediterranean, meal-prep, lunch |
 
 <!-- Note the fields in the markdown table -->
