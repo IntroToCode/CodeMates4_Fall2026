@@ -33,7 +33,7 @@ Step-by-step process on how to make delicious chicken biryani.
 - [ ] 4 green chilies, slit
 - [ ] Whole spices: 4 green cardamom, 4 cloves, 1 cinnamon stick, 2 bay leaves
 - [ ] Pinch of saffron soaked in 1/4 cup warm milk
-- [ ] Salt to tast
+- [ ] Salt to taste
       
 <!-- List every ingredient -->
 
