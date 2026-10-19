@@ -11,7 +11,6 @@ Light, fluffy pancakes made with ricotta and fresh lemon. Ricotta hotcakes becam
 | Total Time | 35 minutes |
 | Servings | 4 (about 12 pancakes) |
 | Difficulty | Medium |
-| Spice Level | N/A |
 | Tags | breakfast, brunch, vegetarian, Australian |
 
 ## Ingredients:

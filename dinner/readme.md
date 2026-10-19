@@ -12,7 +12,6 @@ Step-by-step process on how to make delicious chicken biryani.
 | Total Time | 1 hour 30 mins |
 | Servings | 8 |
 | Difficulty | Medium |
-| Spice Level | 🌶️ |
 | Tags | Indian, Make-Ahead, Crowd Fav |
 
 <!-- Note the fields in the markdown table -->
