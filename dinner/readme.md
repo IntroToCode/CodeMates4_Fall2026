@@ -13,7 +13,7 @@ Step-by-step process on how to make delicious chicken biryani.
 | Servings | 8 |
 | Difficulty | Medium |
 | Tags | Indian, Make-Ahead, Crowd Fav |
-
+| Spice Level | 🌶️🌶️🌶️ 3/5 (Medium) |
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
