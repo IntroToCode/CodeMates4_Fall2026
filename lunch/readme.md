@@ -18,6 +18,7 @@ What makes it special is its balance of fresh flavors, nutrition, and convenienc
 | Servings | 2 |
 | Difficulty | Easy |
 | Tags | healthy, high-protein, Mediterranean, meal-prep, lunch |
+| Spice Level | 🌶️ 1/5 (Mild) |
 
 <!-- Note the fields in the markdown table -->
 
