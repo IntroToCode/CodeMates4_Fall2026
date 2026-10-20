@@ -20,6 +20,8 @@ What makes it special is its balance of fresh flavors, nutrition, and convenienc
 | Spice Level | 🌶️ 1/5 (Mild) |
 | Tags | healthy, high-protein, Mediterranean, meal-prep, lunch |
 
+*Spice scale: 0–5, one 🌶️ per point. 0 = not spicy, 1–2 = mild, 3 = medium, 4–5 = hot.*
+
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
