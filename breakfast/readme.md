@@ -12,6 +12,10 @@ Light, fluffy pancakes made with ricotta and fresh lemon. Ricotta hotcakes becam
 | Servings | 4 (about 12 pancakes) |
 | Difficulty | Medium |
 | Tags | breakfast, brunch, vegetarian, Australian |
+| Spice Level | 0/5 (Not spicy) |
+
+*Spice scale: 0–5, one 🌶️ per point. 0 = not spicy, 1–2 = mild, 3 = medium, 4–5 = hot.*
+
 
 ## Ingredients:
 - 1 ⅓ cups whole-milk ricotta

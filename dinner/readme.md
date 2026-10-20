@@ -1,4 +1,4 @@
-Chicken Biryani
+# Chicken Biryani
 
 Step-by-step process on how to make delicious chicken biryani. 
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? --> It is a culturally rich dish with lots of spices from Pakistan. 
@@ -13,8 +13,10 @@ Step-by-step process on how to make delicious chicken biryani.
 | Servings | 8 |
 | Difficulty | Medium |
 | Tags | Indian, Make-Ahead, Crowd Fav |
-
+| Spice Level | 🌶️🌶️🌶️ 3/5 (Medium) |
 <!-- Note the fields in the markdown table -->
+
+*Spice scale: 0–5, one 🌶️ per point. 0 = not spicy, 1–2 = mild, 3 = medium, 4–5 = hot.*
 
 ### Ingredients:
 - [ ] 2 lb bone-in chicken thighs, cut into pieces

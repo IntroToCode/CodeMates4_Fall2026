@@ -15,23 +15,26 @@ What makes it special is its balance of fresh flavors, nutrition, and convenienc
 | Prep Time | 15 minutes |
 | Cook Time | 20 minutes |
 | Total Time | 35 minutes |
-| Servings | 2 |
+| Servings | 4 |
 | Difficulty | Easy |
+| Spice Level | 🌶️ 1/5 (Mild) |
 | Tags | healthy, high-protein, Mediterranean, meal-prep, lunch |
+
+*Spice scale: 0–5, one 🌶️ per point. 0 = not spicy, 1–2 = mild, 3 = medium, 4–5 = hot.*
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-1 cup dry quinoa
-2 boneless, skinless chicken breasts
-1 cucumber, diced
-1 cup cherry tomatoes, halved
-1/4 red onion, diced
-1/3 cup crumbled feta cheese
-2 tablespoons olive oil
-1 lemon, juiced
-1 teaspoon dried oregano
-1/2 teaspoon garlic powder
+2 cups dry quinoa
+4 boneless, skinless chicken breasts
+2 cucumbers, diced
+2 cups cherry tomatoes, halved
+1/2 red onion, diced
+2/3 cup crumbled feta cheese
+4 tablespoons olive oil
+2 lemons, juiced
+2 teaspoons dried oregano
+1 teaspoon garlic powder
 Salt and pepper to taste
 Optional: hummus, avocado, or kalamata olives
       
@@ -41,10 +44,10 @@ Optional: hummus, avocado, or kalamata olives
 
 1. Rinse quinoa and cook according to package instructions (about 15 minutes).
 2. Season chicken with oregano, garlic powder, salt, and pepper.
-3. Heat 1 tablespoon olive oil in a skillet over medium heat. Cook chicken for 5–7 minutes per side, or until the internal temperature reaches 165°F.
-4. While the chicken cooks, dice the cucumber, tomatoes, and red onion.
+3. Heat 2 tablespoons olive oil in a skillet over medium heat. Cook chicken for 5–7 minutes per side, or until the internal temperature reaches 165°F.
+4. While the chicken cooks, dice the cucumbers, tomatoes, and red onion.
 5. Whisk together the remaining olive oil and lemon juice with a pinch of salt and pepper.
-6. Divide quinoa between two bowls. Top with sliced chicken, vegetables, and feta.
+6. Divide quinoa among four bowls. Top with sliced chicken, vegetables, and feta.
 7. Drizzle with lemon dressing and serve!
 
 ### Notes:
