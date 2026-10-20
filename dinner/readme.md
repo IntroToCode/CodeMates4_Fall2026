@@ -16,6 +16,8 @@ Step-by-step process on how to make delicious chicken biryani.
 | Spice Level | 🌶️🌶️🌶️ 3/5 (Medium) |
 <!-- Note the fields in the markdown table -->
 
+*Spice scale: 0–5, one 🌶️ per point. 0 = not spicy, 1–2 = mild, 3 = medium, 4–5 = hot.*
+
 ### Ingredients:
 - [ ] 2 lb bone-in chicken thighs, cut into pieces
 - [ ] 1 cup plain yogurt
